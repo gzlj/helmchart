@@ -17,7 +17,7 @@ entries:
     sources:
     - https://github.com/apache/hadoop
     urls:
-    - http://192.168.1.201:9000/minio/download/charts/hadoop-1.0.7.tgz
+    - hadoop-1.0.7.tgz
     version: 1.0.7
   redis:
   - appVersion: 4.0.9
@@ -40,6 +40,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-redis
     urls:
-    - http://192.168.1.201:9000/minio/download/charts/redis-3.3.0.tgz
+    - redis-3.3.0.tgz
     version: 3.3.0
 generated: 2018-05-17T18:41:44.600259235+08:00
